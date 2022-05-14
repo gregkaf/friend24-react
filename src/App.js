@@ -1,3 +1,4 @@
+import Features from 'ui/Features/index';
 import HowIt from 'ui/HowIt/index';
 import Slogan from 'ui/Slogan/index';
 import './css/styles.css';
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Slogan />
       <HowIt />
+      <Features />
     </div>
   );
 }

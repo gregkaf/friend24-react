@@ -1,8 +1,8 @@
-import StarSnowflakeBig from '../../images/star-snowflake-big.svg';
-import StarSnowflakeLittle from '../../images/star-snowflake-little.svg';
-import LoveHeartTexted from '../../images/love-heart-texted.svg';
-import GirlAvatar from '../../images/girl-avatar.png';
-import GuyAvatar from '../../images/guy-avatar.png';
+import StarSnowflakeBig from 'images/star-snowflake-big.svg';
+import StarSnowflakeLittle from 'images/star-snowflake-little.svg';
+import LoveHeartTexted from 'images/love-heart-texted.svg';
+import GirlAvatar from 'images/girl-avatar.png';
+import GuyAvatar from 'images/guy-avatar.png';
 
 const HowIt = () => {
   return (
