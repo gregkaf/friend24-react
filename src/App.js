@@ -1,4 +1,5 @@
 import Features from 'ui/Features/index';
+import Footer from 'ui/Footer/index';
 import HowIt from 'ui/HowIt/index';
 import InTouch from 'ui/InTouch/index';
 import Slogan from 'ui/Slogan/index';
@@ -15,6 +16,7 @@ function App() {
       <Features />
       <InTouch />
       <WhatTo />
+      <Footer />
     </div>
   );
 }
